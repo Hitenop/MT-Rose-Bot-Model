@@ -7,7 +7,7 @@ class script(object):
 
 For More Details Click Help Button Below..</i>
 
-<i>@AvishkarPatil </i>"""
+<i>@hiten_op </i>"""
 
 
     HELP_MSG = """<b>No Your Any Work Here</b>
