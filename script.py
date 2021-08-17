@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hey {}</b>
     
-<i>I'm Spiddy 🍃 ... 
+<i>I'm Professor 🍃 ... 
 
 For More Details Click Help Button Below..</i>
 
