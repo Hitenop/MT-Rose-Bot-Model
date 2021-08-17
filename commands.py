@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "MY BOSS 🍃", url="https://t.me/Avishkarpatil")
+                            "MY BOSS 🍃", url="https://t.me/hiten_op")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "FOLLOW ME 💞", url="https://Instagram.com/proavipatil")
+                            "FOLLOW ME 💞", url="https://Instagram.com/hitenbasantani_")
                     ]
                 ]
             ),
