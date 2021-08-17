@@ -19,9 +19,9 @@ For More Details Click Help Button Below..</i>
 <i>© @AvishkarPatil</i>"""
 
 
-    ABOUT_MSG = """▪ <i>Spiddy Movie Bot</i>
+    ABOUT_MSG = """▪ <i>Professor Movie Bot</i>
     
-🔸<b>Creater :</b> @AvishkarPatil
+🔸<b>Creater :</b> @hiten_op
 🔹<b>Follow Me :</b> <a href='https://Instagram.com/proavipatil'>Instagram</a> 
 
 """
