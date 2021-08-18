@@ -16,7 +16,7 @@ For More Details Click Help Button Below..</i>
     
      • <b>GitHub :</b> <a href='https://GitHub.com/avipatilpro'>@avipatilpro</a>
     
-<i>© @AvishkarPatil</i>"""
+<i>© @hiten_op</i>"""
 
 
     ABOUT_MSG = """▪ <i>Professor Movie Bot</i>
